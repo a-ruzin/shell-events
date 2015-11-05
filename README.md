@@ -10,7 +10,8 @@ React on event:
 * * * * * esub ru.kokoc.kit.report.yandex.generated | /usr/bin/anotherscript
 ```
 
-Whenever some application will cause an event, all listeners will start processing it
+When somescript ends it creates an event.
+Listeners of that event will start processing it.
 
 ## epub
 	[-h server.com]
